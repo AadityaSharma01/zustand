@@ -41,6 +41,8 @@ Zustand is a fast, minimal state management library for React and JavaScript. It
 
 - [Tic-Tac-Toe Guide](https://zustand.docs.pmnd.rs/guides/tutorial-tic-tac-toe): Build a game using Zustand state.
 
+## Video links
+- [How to use zustand](https://www.youtube.com/watch?v=_ngCLZ5Iz-0): A Lighweight Global statemanagment system
 ## More
 
 - [Third-party Libraries](https://zustand.docs.pmnd.rs/integrations/third-party-libraries): Integrations with third-party libraries.
