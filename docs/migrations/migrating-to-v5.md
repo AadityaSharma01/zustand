@@ -37,7 +37,7 @@ import { shallow } from 'zustand/shallow'
 
 const useCountStore = create((set) => ({
   count: 0,
-  text: 'hello',
+  text: hello,
   // ...
 }))
 
@@ -75,7 +75,7 @@ import { useShallow } from 'zustand/shallow'
 
 const useCountStore = create((set) => ({
   count: 0,
-  text: 'hello',
+  text: hello,
   // ...
 }))
 
@@ -207,7 +207,7 @@ const useCountStore = create(
       count: Math.floor(Math.random() * 1000),
     }),
     {
-      name: 'count',
+      name: count,
     },
   ),
 )
@@ -226,7 +226,7 @@ const useCountStore = create(
       count: 0,
     }),
     {
-      name: 'count',
+      name: count,
     },
   ),
 )
